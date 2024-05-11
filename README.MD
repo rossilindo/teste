@@ -4,7 +4,7 @@
 
 Para o funcionamento do nosso sistema, você precisara das seguintes tecnologias:
 
-1. [Git](https://git-scm.com/downloads): Utilizaremos o Git para clonar o nosso repositório.
+1. [Git](https://git-scm.com/downloads): Utilizaremos o Git para clonar o nosso repositório ueeeeeeeeeeeeeeeeeeeeeeeeeeeeee.
 
 2. [Python](https://www.python.org/downloads/): Precisaremos do python, para isso, recomendamos que você instale a versão 3.11, não se esqueça de na hora da instalação, marcar a opção da instalação do pip, pois precisaremos dele para a criação e configuração do ambiente virtual.
 
