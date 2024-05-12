@@ -32,7 +32,7 @@ Para o funcionamento do Portfólio, você precisara da seguinte tecnologia:
 
   Para clonar o portfólio e utilizá-lo em seu computador, siga os seguintes passos:
   
-  1. Crie uma pasta vazia e então abra-a e clique na url da pasta, ou então utilize o atalho `Ctrl+L` para selecionar a url, logo após selecionar a url, você tera que digitar o comando "cmd" como demonstrado no exemplo abaixo: <br> <img src="https://media.discordapp.net/attachments/1169661487615311955/1239280296348618904/cmd.gif?ex=66425937&is=664107b7&hm=02f83f129bb7a9b1dac0d8e33ec3715d94f1d862a0dd425d23de6c9583c48470&=&width=1110&height=658">
+  1. Crie uma pasta vazia e então abra-a e clique na url da pasta, ou então utilize o atalho `Ctrl+L` para selecionar a url, logo após selecionar a url, você tera que digitar o comando "cmd" como demonstrado no exemplo abaixo: <br> <img src="https://github.com/rossilindo/teste/blob/main/mgt/cmd.gif">
   
      > _Obs.: Caso você esteja no LINUX, a parte de escrever "cmd" não irá funcionar, então clique com o botão direito na pasta que você criou e selecione a opção "Abrir no terminal"_
 
